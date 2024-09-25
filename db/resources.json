@@ -1,5 +1,5 @@
 {
-"count": 1404,
+"count": 1417,
 "entries": [
     {
         "API": "Cat Facts",
@@ -80,15 +80,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://http.dog/",
-        "Category": "Animals"
-    },
-    {
-        "API": "HTTP Status Dogs",
-        "Description": "Dogs for every HTTP response status code",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://httpstatusdogs.com/",
         "Category": "Animals"
     },
     {
@@ -398,6 +389,15 @@
         "Category": "Anti-Malware"
     },
     {
+        "API": "FishFish",
+        "Description": "A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://fishfish.gg/",
+        "Category": "Anti-Malware"
+    },
+    {
         "API": "Google Safe Browsing",
         "Description": "Google Link/Domain Flagging",
         "Auth": "apiKey",
@@ -440,6 +440,14 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://metacert.com/",
+        "Category": "Anti-Malware"
+    },
+    {
+        "API": "phish.directory",
+        "Description": "API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.   apiKey",
+        "Auth": "Yes",
+        "HTTPS": false,
+        "Link": "https://phish.directory/",
         "Category": "Anti-Malware"
     },
     {
@@ -593,6 +601,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://img.icons8.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Logotypes",
+        "Description": "Logotypes of the world in multiples format",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://logotypes.dev/",
         "Category": "Art & Design"
     },
     {
@@ -2045,6 +2062,15 @@
         "Category": "Cryptocurrency"
     },
     {
+        "API": "Sellgate",
+        "Description": "Cryptocurrency checkout creator",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://sellgate.io/docs/checkout/create",
+        "Category": "Cryptocurrency"
+    },
+    {
         "API": "Solana JSON RPC",
         "Description": "Provides various endpoints to interact with the Solana Blockchain",
         "Auth": "",
@@ -2231,6 +2257,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://freeforexapi.com/Home/Api",
+        "Category": "Currency Exchange"
+    },
+    {
+        "API": "FxFeed.io",
+        "Description": "Foreign exchange rates, currency conversion and time series data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://fxfeed.io",
         "Category": "Currency Exchange"
     },
     {
@@ -2855,6 +2890,15 @@
         "Category": "Development"
     },
     {
+        "API": "httpSMS",
+        "Description": "Use your Android phone as an SMS gateway to send and receive SMS messages via a simple HTTP API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://docs.httpsms.com/",
+        "Category": "Development"
+    },
+    {
         "API": "Hunter",
         "Description": "API for domain search, professional email finder, author finder and email verifier",
         "Auth": "apiKey",
@@ -3332,6 +3376,15 @@
         "Category": "Development"
     },
     {
+        "API": "SEO Tags Generator API",
+        "Description": "The Generate SEO Tags API generates all the most important META tags based on any content",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-generate-seo-tags",
+        "Category": "Development"
+    },
+    {
         "API": "Serialif Color",
         "Description": "Color conversion, complementary, grayscale and contrasted text",
         "Auth": "",
@@ -3482,6 +3535,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.zenrows.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "Zuplo",
+        "Description": "API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://zuplo.com/",
         "Category": "Development"
     },
     {
@@ -3779,6 +3841,15 @@
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://developers.pandadoc.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "Paraphrase Text API",
+        "Description": "The Paraphrase Text Generator API generates a paraphrased version of the provided text",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-paraphrase-text",
         "Category": "Documents & Productivity"
     },
     {
@@ -4430,12 +4501,12 @@
         "Category": "Finance"
     },
     {
-        "API": "Atom Finance",
-        "Description": "Atom Finance provides access to market, earnings and news data",
-        "Auth": "apiKey",
+        "API": "ArgentoFX",
+        "Description": "Real-time foreign exchange rates for Argentina",
+        "Auth": "",
         "HTTPS": true,
         "Cors": "yes",
-        "Link": "https://atom.finance/",
+        "Link": "https://fastapiproject-1-eziw.onrender.com/docs",
         "Category": "Finance"
     },
     {
@@ -4481,6 +4552,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sandbox.developerhub.citi.com/api-catalog-list",
+        "Category": "Finance"
+    },
+    {
+        "API": "DolarAPI",
+        "Description": "Real-time exchange rates for Latin American currencies",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://dolarapi.com/docs/",
         "Category": "Finance"
     },
     {
@@ -4688,15 +4768,6 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://developers.rentcast.io",
-        "Category": "Finance"
-    },
-    {
-        "API": "Repetiti",
-        "Description": "Repetiti 3d Printer Management Service",
-        "Auth": "apiKey",
-        "HTTPS": true,
-        "Cors": "yes",
-        "Link": "https://developers.repetiti.com/",
         "Category": "Finance"
     },
     {
@@ -7805,6 +7876,15 @@
         "Category": "Machine Learning"
     },
     {
+        "API": "jsonAi.cloud",
+        "Description": "Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://jsonai.cloud",
+        "Category": "Machine Learning"
+    },
+    {
         "API": "Keen IO",
         "Description": "Data Analytics",
         "Auth": "apiKey",
@@ -8858,6 +8938,15 @@
         "Category": "Personality"
     },
     {
+        "API": "kimiquotes",
+        "Description": "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://kimiquotes.pages.dev/docs",
+        "Category": "Personality"
+    },
+    {
         "API": "Medium",
         "Description": "Community of readers and writers offering unique perspectives on ideas",
         "Auth": "OAuth",
@@ -9800,6 +9889,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
+        "Category": "Security"
+    },
+    {
+        "API": "IntelOwl",
+        "Description": "Manage your Threat Intelligence at scale",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://intelowl.readthedocs.io",
         "Category": "Security"
     },
     {
@@ -10874,6 +10972,15 @@
         "Category": "Test Data"
     },
     {
+        "API": "Mockae",
+        "Description": "Fake REST API powered by Lua",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://mockae.com/",
+        "Category": "Test Data"
+    },
+    {
         "API": "Mockaroo",
         "Description": "Generate fake data to JSON, CSV, TXT, SQL and XML",
         "Auth": "apiKey",
@@ -11060,6 +11167,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://libretranslate.com/docs",
+        "Category": "Text Analysis"
+    },
+    {
+        "API": "Proofread and Grammar Check API",
+        "Description": "The Proofreading and Grammar Check API ensures the provided text is grammatically correct and polished by automatically proofreading and checking for errors",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://apyhub.com/utility/sharpapi-proofread-grammer-check",
         "Category": "Text Analysis"
     },
     {
